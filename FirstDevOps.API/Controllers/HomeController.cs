@@ -9,7 +9,7 @@ namespace FirstDevOps.API.Controllers
         [HttpGet]
         public IActionResult GetAll()
         {
-            return null;
+            return Ok();
         }
     }
 }
