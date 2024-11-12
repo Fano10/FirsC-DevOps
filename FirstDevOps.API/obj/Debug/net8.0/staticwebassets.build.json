@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "D6W42w9GK2YtyixFhXDasfuWBEMq0572ZxQVh1mPMxk=",
+  "Source": "FirstDevOps.API",
+  "BasePath": "_content/FirstDevOps.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
